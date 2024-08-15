@@ -1,2 +1,2 @@
 # java-crud-pessoas
-Para acessar o javadoc basta rodar o index.html que está na pasta api-javadoc/
+Para acessar o javadoc basta rodar no navegador o index.html que está na pasta api-javadoc/
